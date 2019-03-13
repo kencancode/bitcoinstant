@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>This is an index.html page, which shouldn't run</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="../styles/layout.css" type="text/css" />
+</head>
+<body>
+
+<!-- Hero Image -->
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="display-4">Fluid jumbotron</h1>
+    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+  </div>
+</div>
+
+<h1>BitcoInstant</h1>
+
+<form action="/result" method="POST">
+  <select name="crypto">
+    <option value="BTC">Bitcoin</option>
+    <option value="ETH">Ethereum</option>
+    <option value="LTC">Litecoins</option>
+  </select>
+
+  <select name="fiat">
+    <option value="USD">US Dollars</option>
+    <option value="CAD">Canadian Dollars</option>
+    <option value="GBP">GB Pounds</option>
+    <option value="EUR">EU Euros</option>
+  </select>
+
+  <button type="submit" name="button">CHECK VALUE</button>
+</form>
+
+
+</body>
+</html>

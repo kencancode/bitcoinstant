@@ -1,0 +1,67 @@
+html  {
+height: 100%
+}
+
+.jumbotron {
+  background-color: red;
+}
+
+.textShown {
+  font-size: 50px;
+}
+
+.title{
+  font-family: 'Roboto Condensed', sans-serif;
+  font-size: 100px;
+  text-align: center;
+  margin-top: 15%;
+}
+
+.subtitle{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+}
+
+#homepage {
+  background-color: white;
+  background: url(../images/bitcoin-home.jpg);
+  opacity: 1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.card {
+  width: 30%;
+  margin-top:19%;
+  margin-left: 32%
+}
+
+p {
+  text-align: center;
+}
+
+h5 {
+  text-align: center;
+}
+
+.btn-primary {
+  align-content: center;
+  margin-left: 36%;
+}
+
+#resultpage {
+  background-color: white;
+  background: url(../images/bitcoin-home.jpg);
+  opacity: 1;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+form {
+width: 80%;
+margin-left: 18%;
+margin-top: 60px;
+}
+
