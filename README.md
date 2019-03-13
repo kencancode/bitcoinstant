@@ -14,6 +14,6 @@ I worked on this mini project while having a Big Mac, in order to deepen my know
 - Bitcoinaverage's API
 
 ## Screenshots
-!["Tweeter App"](https://github.com/kencancode/tweeter/blob/master/docs/tweeter-app.jpg)
-!["Adding content"](https://github.com/kencancode/tweeter/blob/master/docs/Tweeter-compose.jpg)
-!["Error Message"](https://github.com/kencancode/tweeter/blob/master/docs/Tweeter-errormessage.jpg)
+!["BitcoInstant Homepage"](https://github.com/kencancode/bitcoinstant/blob/master/docs/bitcoin-homedemo.png)
+!["BitCoInstant Result"](https://github.com/kencancode/bitcoinstant/blob/master/docs/bitcoin-resultdemo.png)
+
